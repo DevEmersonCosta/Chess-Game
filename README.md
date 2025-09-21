@@ -254,7 +254,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Emerson Costa**
 
 - 📧 Email: emersoncurry72@gmail.com.com
 
@@ -263,7 +263,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 - [Chess.js](https://github.com/jhlywa/chess.js) - Engine de xadrez
 - [React](https://reactjs.org/) - Framework frontend
 - [Vercel](https://vercel.com) - Hospedagem gratuita
-- Comunidade React Brasil
 
 ---
 
