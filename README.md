@@ -35,7 +35,7 @@ Um jogo de xadrez completo desenvolvido em React com interface moderna, sistema 
 
 ## 🚀 Demo
 
-**🔗 [Jogar Online](https://seulink.vercel.app)**
+**🔗 [Jogar Online](https://chess-game-zeta-three.vercel.app)**
 
 ### 📸 Screenshots
 
