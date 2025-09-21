@@ -7,7 +7,7 @@ Um jogo de xadrez completo desenvolvido em React com interface moderna, sistema 
 [![Chess.js](https://img.shields.io/badge/Chess.js-Latest-yellow)](https://github.com/jhlywa/chess.js)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-## 🎮 [**JOGAR AGORA**]([https://seulink.vercel.app](https://vercel.com/devemersoncostas-projects/chess-game/9kinvCLtfXuqtQqSwzbknRFLCrr4))
+## 🎮 [**JOGAR AGORA**](https://chess-game-zeta-three.vercel.app)
 
 ![Chess Game Screenshot](https://via.placeholder.com/800x500/1a1a2e/ffffff?text=Chess+Game+Screenshot)
 
@@ -256,7 +256,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-**Emerson Costa**
+**Seu Nome**
+
 - 📧 Email: emersoncurry72@gmail.com.com
 
 ## 🙏 Agradecimentos
@@ -270,4 +271,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **⭐ Se este projeto te ajudou, considere dar uma estrela!**
 
-**🎮 [JOGAR AGORA](https://vercel.com/devemersoncostas-projects/chess-game/9kinvCLtfXuqtQqSwzbknRFLCrr4)**
+**🎮 [JOGAR AGORA](https://chess-game-zeta-three.vercel.app)**
