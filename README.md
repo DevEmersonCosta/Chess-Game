@@ -9,8 +9,6 @@ Um jogo de xadrez completo desenvolvido em React com interface moderna, sistema 
 
 ## 🎮 [**JOGAR AGORA**](https://chess-game-zeta-three.vercel.app)
 
-![Chess Game Screenshot](https://via.placeholder.com/800x500/1a1a2e/ffffff?text=Chess+Game+Screenshot)
-
 ## ✨ Funcionalidades
 
 ### 🎯 **Core Features**
